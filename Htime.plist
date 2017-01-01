@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.57.146.202/PlayWorkWCF/IOS/好时光.ipa</string>
+					<string>http://218.57.146.202/PlayWorkWCF/IOS/Htime.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.inspur.SBG.Htime</string>
 				<key>bundle-version</key>
-				<string>0.08</string>
+				<string>0.09</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>好时光</string>
 				<key>title</key>
-				<string>好时光0.08</string>
+				<string>好时光0.09</string>
 			</dict>
 		</dict>
 	</array>
