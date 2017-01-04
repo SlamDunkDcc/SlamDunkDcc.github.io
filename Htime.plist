@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.inspur.SBG.Htime</string>
 				<key>bundle-version</key>
-				<string>0.11</string>
+				<string>0.12</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>好时光</string>
 				<key>title</key>
-				<string>好时光0.11</string>
+				<string>好时光0.12</string>
 			</dict>
 		</dict>
 	</array>
